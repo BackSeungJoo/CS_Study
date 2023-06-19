@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Interpolation", "String_Interpolation.csproj", "{D10D2703-CCC8-4DDC-9D27-BD0C63CCBF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10D2703-CCC8-4DDC-9D27-BD0C63CCBF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10D2703-CCC8-4DDC-9D27-BD0C63CCBF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10D2703-CCC8-4DDC-9D27-BD0C63CCBF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10D2703-CCC8-4DDC-9D27-BD0C63CCBF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FAC1B9-D6BC-42C5-B88C-9A7E79F478DD}
+	EndGlobalSection
+EndGlobal
